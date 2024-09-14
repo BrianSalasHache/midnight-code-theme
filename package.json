@@ -1,0 +1,32 @@
+{
+  "name": "midnight-code-theme",
+  "displayName": "Midnight Code Theme",
+  "description": "Midnight Code Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Code Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Code Theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/midnight-code.png",
+  "author": {
+    "name": "Brian Salas",
+    "email": "briansalasfalcone@gmail.com",
+    "url": "https://www.linkedin.com/in/briansalas/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianSalasHache/midnight-code-theme.git"
+  },
+  "publisher": "brian-salas-hache"
+}
